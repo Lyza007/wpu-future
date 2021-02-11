@@ -1,2 +1,2 @@
 # wpu-future
-reposotories untuk masa hadapan
+repository untuk masa hadapan
